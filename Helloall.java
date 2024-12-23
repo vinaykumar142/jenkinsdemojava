@@ -1,5 +1,5 @@
 class Helloall{
     public static void main(String args[]){
-        System.out.println("Hello all???    _Demo Program");
+        System.out.println("Hello all???");
     }
 }
